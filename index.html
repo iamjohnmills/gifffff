@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Gifffff</title>
+    <style>
+      html,body { margin: 0; padding: 0; font-family: 'Courier New'; font-size: 14px; line-height: 26px; height: 100%; width: 100%; }
+      .cursor-up { cursor: n-resize; }
+      .cursor-down { cursor: s-resize; }
+      .cursor-left { cursor: w-resize; }
+      .cursor-right { cursor: e-resize; }
+      #app { display: block; width: 100%; height: 100%; }
+      #app img { display: block; width: 100vw; height: 100vh; object-fit: cover; }
+      .filter { transition: opacity 0.05s; background-position: left top; position: absolute; top: 0; right: 0; bottom: 0; left: 0; }
+      .hide { opacity: 0 !important; }
+    </style>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="text/javascript" src="settings.js"></script>
+    <script type="text/javascript" src="app.js"></script>
+    <script>
+      var app = new App(settings);
+    </script>
+  </body>
+</html>
