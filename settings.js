@@ -12,7 +12,7 @@ var settings = {
         // ron swn
         { url: 'https://i0.wp.com/brightestyoungthings.com/wp-content/uploads/2013/07/ron-swanson-drunk-gif.gif', duration: 2000 },
         // coming to america
-        { url: 'https://media1.tenor.com/images/8bf88bc2a710c723d8d2d138e26cadc6/tenor.gif', duration: 5000 },
+        { url: 'https://media1.tenor.com/images/8bf88bc2a710c723d8d2d138e26cadc6/tenor.gif', duration: 4700 },
         // raise your glass
         { url: ' https://camo.githubusercontent.com/004ede037aac4873bb93a9f902c6084f7d8942256b473fb43618d9ad229ca8ee/68747470733a2f2f7777772e7265616374696f6e676966732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031322f30382f77656c6c5f646f6e655f7369722e676966', duration: 3500 },
         // michael scott
