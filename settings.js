@@ -15,6 +15,9 @@ var settings = {
         { url: 'https://media1.tenor.com/images/8bf88bc2a710c723d8d2d138e26cadc6/tenor.gif', duration: 6000 },
         // raise your glass
         { url: ' https://camo.githubusercontent.com/004ede037aac4873bb93a9f902c6084f7d8942256b473fb43618d9ad229ca8ee/68747470733a2f2f7777772e7265616374696f6e676966732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031322f30382f77656c6c5f646f6e655f7369722e676966', duration: 3500 },
+        // michael scott
+        { url: 'https://media.tenor.com/images/e5491810569214ce89845cf8e63e4271/tenor.gif', duration: 3500 },
+
       ]
     },
     {
