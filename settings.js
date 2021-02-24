@@ -4,8 +4,8 @@ var settings = {
     {
       name: 'best',
       images: [
-        { url: 'https://i.gifer.com/UUmK.gif', duration: 2000 },
-        { url: 'https://i.gifer.com/FYfW.gif', duration: 2000 },
+        { url: 'https://i.gifer.com/UUmK.gif', duration: 3000 },
+        { url: 'https://i.gifer.com/FYfW.gif', duration: 3000 },
         { url: 'https://www.reactiongifs.com/r/datas.gif', duration: 2000 },
         // b fraizh
         { url: 'https://media2.giphy.com/media/BBAdXxBAXp3wc/giphy.gif', duration: 2000 },
